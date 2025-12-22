@@ -18,6 +18,4 @@ Dateien Hinzufügen:
 1. Klicke oben auf den Reiter "Issues".
 2. Erstelle ein "New Issue" mit einem Titel wie "Semester x, [Fach], [Dozent], [Jahr]".
 3. Ziehe deine Dateien (PDF/Bilder) einfach per Drag & Drop in das Textfeld.
-4. Abschicken! Ich nehme die Datei dann auf und lösche das Issue danach wieder. Hinweis: Dein GitHub-Name ist hierbei kurz für jeden sichtbar.
-
-
+4. Abschicken! Ich nehme die Datei dann auf und lösche das Issue danach wieder. 
