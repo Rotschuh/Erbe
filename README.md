@@ -13,3 +13,11 @@ wird dafür sorgen, dass dieses Repository SOFORT gelöscht wird und nie wieder 
 5. Bitte führt das ganze auch weiter, jeder kann hier uploaden und der Jahrgang unter euch freut sich genauso wie Ihr über eure Altklausuren.
 
 Dozenten verwenden oft Aufgaben oder ganze Altklausuren erneut. Wenn Sie davon erfahren, dass ihr zugriff auf Altklausuren habt, machen sie das natürlich nicht mehr. 
+
+Dateien Hinzufügen: 
+1. Klicke oben auf den Reiter "Issues".
+2. Erstelle ein "New Issue" mit einem Titel wie "Semester x, [Fach], [Dozent], [Jahr]".
+3. Ziehe deine Dateien (PDF/Bilder) einfach per Drag & Drop in das Textfeld.
+4. Abschicken! Ich nehme die Datei dann auf und lösche das Issue danach wieder. Hinweis: Dein GitHub-Name ist hierbei kurz für jeden sichtbar.
+
+
